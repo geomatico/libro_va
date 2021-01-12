@@ -1,0 +1,33 @@
+.icon-checked{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(151, 175, 64);
+    box-shadow: 0;
+    border-radius: 5px;
+    color: #454b33;
+    border: none;
+}
+
+.icon-checked:hover{
+    background-color: rgb(160, 160, 160);
+}
+
+.icon-trash{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(221, 50, 50);
+    border-radius: 5px;
+    border: none;
+}
+
+.icon-trash:hover{
+    background-color: rgb(149, 33, 33);
+}
+
+.small{
+    width: 20px;
+}
+
+.large{
+    width: 80px;
+}
